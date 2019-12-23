@@ -7,7 +7,7 @@ Neural Networks" [Link to paper](http://papers.nips.cc/paper/4824-imagenet-class
 
 Required libraries can be found in requirements.txt.
 
-Required package can by install with the following command:
+Install with the following command:
 `pip install -r requirements.txt`
 
 # Dataset
