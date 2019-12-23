@@ -25,7 +25,6 @@ class AlexNet(nn.Module):
         self.setup_bias_and_weights()
     
     def setup_bias_and_weights(self):
-
         # Set all layer's weight to be normal distribution with mean=0, std=0.01
         nn.init.normal_(self.conv1.weight, mean=0, std=0.01)
         nn.init.normal_(self.conv2.weight, mean=0, std=0.01)
