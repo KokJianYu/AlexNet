@@ -5,8 +5,7 @@ Neural Networks" [Link to paper](http://papers.nips.cc/paper/4824-imagenet-class
 
 # Prerequisite
 
-- python >= 3.7.1
-- torch == 1.3.1
+Required libraries can be found in requirements.txt.
 
 Required package can by install with the following command:
 `pip install -r requirements.txt`
